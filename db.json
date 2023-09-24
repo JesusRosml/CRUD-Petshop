@@ -1,0 +1,24 @@
+{
+  "perfil": [
+    {
+      "nombre": "Fernando Herrera Async",
+      "email": "teacherfernandoherrera@gmail.com",
+      "id": "616ca7bc-875f-4b69-99a3-5d3242623a5f"
+    },
+    {
+      "nombre": "Lucas Dalto",
+      "email": "teacherlucasdalto@gmail.com",
+      "id": "0da35cd0-385e-4cd5-a79a-9981fef50ba7"
+    },
+    {
+      "nombre": "Jesus Rosml",
+      "email": "studentjesusrosml@gmail.com",
+      "id": "ac5600d3-b911-46db-9c83-32a2a111eccf"
+    },
+    {
+      "nombre": "Angel Ricardo",
+      "email": "studentagelricardo@gmail.com",
+      "id": "561f6f4d-9b77-402c-aeef-1050d7864e82"
+    }
+  ]
+}
